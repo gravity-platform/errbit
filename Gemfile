@@ -8,7 +8,7 @@ gem 'actionmailer', RAILS_VERSION
 gem 'actionpack', RAILS_VERSION
 gem 'railties', RAILS_VERSION
 
-gem 'moped', '~> 2.0.2'
+gem 'moped', '~> 2.0.4'
 gem 'mongoid', '~> 4.0.0'
 
 gem 'mongoid_rails_migrations'
