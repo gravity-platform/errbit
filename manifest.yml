@@ -10,3 +10,4 @@ applications:
     GEMFILE_RUBY_VERSION: 2.2.0
     ERRBIT_HOST: errbit-unstable.nova.scapp.io
     ERRBIT_EMAIL_FROM: lucas.bickel@swisscom.com
+    EMAIL_DELIVERY_METHOD: :smtp
