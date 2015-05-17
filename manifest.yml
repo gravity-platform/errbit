@@ -2,7 +2,7 @@
 applications:
 - name: errbit-unstable
   services:
-  - errbit-mongodb
+  - errbit-unstable-mongodb
   memory: 256M
   env:
     RAILS_ENV: production
