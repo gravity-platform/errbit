@@ -254,6 +254,7 @@ GEM
     rack (1.5.5)
     rack-contrib (1.2.0)
       rack (>= 0.9.1)
+    rack-cors (0.4.0)
     rack-ssl (1.4.1)
       rack
     rack-ssl-enforcer (0.2.8)
@@ -441,6 +442,7 @@ DEPENDENCIES
   pry-byebug
   pry-rails
   quiet_assets
+  rack-cors
   rack-ssl
   rack-ssl-enforcer
   rails_12factor
@@ -462,3 +464,6 @@ DEPENDENCIES
   useragent
   xmpp4r
   yajl-ruby
+
+BUNDLED WITH
+   1.10.6
